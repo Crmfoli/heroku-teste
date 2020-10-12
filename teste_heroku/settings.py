@@ -26,7 +26,7 @@ SECRET_KEY = '1v!f@7sn)(110)=r@0)br%tbo7b9=f%_%c85xh3deikm(mk#42'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["django-foli.herokuapp.com/","127.0.0.1"]
+ALLOWED_HOSTS = ["django-foli.herokuapp.com/", "127.0.0.1"]
 
 
 # Application definition
